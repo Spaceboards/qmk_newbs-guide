@@ -3,4 +3,4 @@ In order to do major adjustments to a keymap you will want to set up a dev envir
 I want to add...
 - [Macros](https://docs.qmk.fm/#/feature_macros)
 - [Encoders](https://docs.qmk.fm/#/feature_encoders)
-- [Tapdance](https://docs.qmk.fm/#/feature_tap_dance)
+- [Tap Dance](https://docs.qmk.fm/#/feature_tap_dance)
