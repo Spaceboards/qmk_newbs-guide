@@ -1,11 +1,8 @@
 ### Create a Keymap
-Visit the qmk configurator at https://config.qmk.fm and select your keyboard in the top left box reading `KEYBOARD`. 
-Then select the appropriate layout in the `LAYOUT` box (This is what the keyboard looks like physically). 
-Now you are going to create your keymap by dragging the keys to their appropriate places or clicking on the empty space and press the key you would like to use in that location. Once you have finsihed creating a keymap click the green compile button in the top right. Wait for that to finish, once done click firmware in the bottom right
+Visit the qmk configurator at https://config.qmk.fm and select your keyboard in the top left box reading `KEYBOARD`. Then select the appropriate layout in the `LAYOUT` button (This is what the keyboard looks like physically). Now you are going to create your keymap by dragging the keys to their appropriate places or clicking on the empty space and press the key you would like to use in that location. Once you have finsihed creating a keymap click the green compile button in the top right. Wait for that to finish, once done click firmware in the bottom right
 
 ### Install Drivers
-Download latest `qmk_driver_installer.zip` from [qmk/qmk_driver_install](https://github.com/qmk/qmk_driver_installer/releases)
-and extract the zip to a temporary location. Now you need to double click on `install_all_drivers.bat`. Once it has finished simply close the window.
+Download latest `qmk_driver_installer.zip` from [qmk/qmk_driver_install](https://github.com/qmk/qmk_driver_installer/releases)and extract the zip to a temporary location. Now you need to double click on `install_all_drivers.bat`. Once it has finished simply close the window.
 
 ### Install More Drivers
 Download Zadig from https://zadig.akeo.ie . After the download has finsihed run `Zadig-<current version>.exe`. When the program opens, check that the center box reads `WinUSB`click `Install WCID Driver`. Now wait until it has finished installing the driver. When it finishes close out the program.
