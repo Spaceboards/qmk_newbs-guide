@@ -1,6 +1,9 @@
 
 Do not use pins 14-16, they are reserved for the Bluetooth controller
+
 Make sure that the LiPo you buy has negitibe (black) on the right side (closest to the Micro USB Port)
+
+Short En and Gnd to turn off the 3.3v regulator, this disables LiPo and USB power
 
 config.h add this
 ```
@@ -10,6 +13,6 @@ config.h add this
 ```
 rules.mk addition
 ```
-	BLUETOOTH = AdafruitBLE
+BLUETOOTH = AdafruitBLE
 ```
 	
