@@ -1,4 +1,4 @@
-![Pinout](https://cdn-learn.adafruit.com/assets/assets/000/046/240/original/microcomputers_Adafruit_Feather_32u4_Basic_Proto_v2.3-1.png)
+![Pinout](https://cdn-learn.adafruit.com/assets/assets/000/046/242/original/adafruit_products_Feather_32u4_Bluefruit_v2.3-1.png)
 
 Do not use pins 14-16, they are reserved for the Bluetooth controller
 
